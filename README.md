@@ -19,6 +19,22 @@ This repository contains the Machine Learning projects completed as part of the 
 - NumPy
 - Scikit-learn
 - Matplotlib
-
+  
+ ## Folder Struture
+ CODESOFT
+│
+├── Titanic-Survival-Prediction
+│   ├── Titanic.ipynb
+│   ├── train.csv
+│   └── README.md
+│
+├── Movie-Rating-Prediction
+│   ├── Movie.ipynb
+│   └── README.md
+│
+└── Iris-Flower-Classification
+    ├── Iris.ipynb
+    └── README.md
+    
 ## Author
 Sonali Subhadarshini Moharana
