@@ -1,6 +1,6 @@
-# CODESOFT - Machine Learning Internship
+# CODESOFT - Data Science Internship
 
-This repository contains the Machine Learning projects completed as part of the CodSoft Internship.
+This repository contains the Data Science projects completed as part of the CodSoft Internship.
 
 ## Projects
 
@@ -20,6 +20,27 @@ This repository contains the Machine Learning projects completed as part of the 
 - Scikit-learn
 - Matplotlib
   
+ ## Machine Learning Workflow
+- Data Cleaning
+- Missing Value Handling
+- Feature Engineering
+- One-Hot Encoding
+- Train-Test Split
+- Random Forest Classifier
+- Model Evaluation
+
+## Feature Engineering
+- Deck
+- Has_Cabin
+- Title
+- FamilySize
+- IsAlone
+
+## Evaluation Metrics
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+ 
  ## Folder Struture
  CODESOFT
 │
